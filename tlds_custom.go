@@ -16,6 +16,8 @@ var ExtendedTLDs = map[string]bool{
 	"BTC":    true, // denarius.io
 	"BITCOIN":true, // denarius.io
 	"DENARII":true, // denarius.io
+	"I":      true, // innova-foundation.com
+	"INN":    true, // innova-foundation.com
 	"BBS":    true, // opennic.org
 	"CHAN":   true, // opennic.org
 	"CYB":    true, // opennic.org

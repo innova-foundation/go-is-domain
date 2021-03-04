@@ -1,11 +1,11 @@
 {
   "author": "jbenet",
   "bugs": {
-    "URL": "https://github.com/carsenk/go-is-domain/issues",
-    "url": "https://github.com/carsenk/go-is-domain/issues"
+    "URL": "https://github.com/innova-foundation/go-is-domain/issues",
+    "url": "https://github.com/innova-foundation/go-is-domain/issues"
   },
   "gx": {
-    "dvcsimport": "github.com/carsenk/go-is-domain"
+    "dvcsimport": "github.com/innova-foundation/go-is-domain"
   },
   "gxVersion": "0.7.0",
   "language": "go",
@@ -13,4 +13,3 @@
   "name": "go-is-domain",
   "version": "1.0.2"
 }
-
